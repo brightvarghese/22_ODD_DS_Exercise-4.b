@@ -28,7 +28,7 @@ Second line: Space-separated integers that denote the elements of the original l
 7 12 8 12 8 13 8 13 7 13</br>
 
 ## Sample Output
-</br>4
+4</br>
 7 12 8 13</br>
 
 ## Explanation
